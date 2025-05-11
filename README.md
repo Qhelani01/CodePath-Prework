@@ -14,7 +14,14 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 ## Video Walkthrough
-- https://www.loom.com/share/71edcd6868ce48ac925fdf15a86c0a8d?sid=39a603f5-e870-4b6d-aacb-e945aa7e98e3
+- <div>
+    <a href="https://www.loom.com/share/71edcd6868ce48ac925fdf15a86c0a8d">
+      <p>CodePath PreWork GIF - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/71edcd6868ce48ac925fdf15a86c0a8d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/71edcd6868ce48ac925fdf15a86c0a8d-e8baf9724627e02d-full-play.gif">
+    </a>
+  </div>
  
 ## App Brainstorming (Step 4)
 Instagram

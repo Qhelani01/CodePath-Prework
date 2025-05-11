@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 ## Video Walkthrough
-- CodePath PreWork GIF - Watch Video
+- https://www.loom.com/share/71edcd6868ce48ac925fdf15a86c0a8d?sid=39a603f5-e870-4b6d-aacb-e945aa7e98e3
  
 ## App Brainstorming (Step 4)
 Instagram

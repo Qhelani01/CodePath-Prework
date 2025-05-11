@@ -12,6 +12,9 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+## Video Walkthrough
+- CodePath PreWork GIF - Watch Video
  
 ## App Brainstorming (Step 4)
 Instagram
